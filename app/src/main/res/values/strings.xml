@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UploadNotes</string>
+    <string name="type">Type</string>
+    <string name="upload">Upload</string>
+    <string name="pdf">PDF</string>
+    <string name="exam">Exam</string>
+    <string name="select">SELECT</string>
+</resources>
