@@ -22,7 +22,7 @@ import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 
 public class MainActivity extends AppCompatActivity {
-
+/// binding object...
     ActivityMainBinding b;
     StorageReference reference;
     DatabaseReference databaseReference;
