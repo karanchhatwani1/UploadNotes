@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         b = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(b.getRoot());
 
+
         instantiatingFirebase();
 
     }
